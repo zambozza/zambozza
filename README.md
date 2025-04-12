@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zambozza
 - 👀 I’m interested in networking and cybersecurity
-- 🌱 I’m currently learning CCNA, CompTIA A+ and Security+, Python and Linux
+- 🌱 I’m currently learning CCNA, CompTIA A+ and Security+, Python and Linux and studying towards a bachelor's degree in cybersecurity
 
 <!---
 zambozza/zambozza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
